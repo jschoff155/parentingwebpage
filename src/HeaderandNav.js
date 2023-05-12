@@ -6,7 +6,7 @@ export default function HeaderandNav() {
     <>
     <h2>The Parenting Protocol</h2>
     <ul>
-      <li><a href='#'>About</a></li>
+      <li><a href=''>About</a></li>
       <li><a href='#'>User Settings</a></li>
       <button>Dark/Light Mode</button>
     </ul>
