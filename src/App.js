@@ -4,6 +4,8 @@ import HomepageCarousel from './HomepageCarousel';
 import PriorityTopics from './PriorityTopics';
 import BeforeTheBaby from './BeforeTheBaby';
 
+
+
 const Header = () => {
 	return (
 		<>
@@ -44,4 +46,4 @@ const Aboutpage = () => {
 		</div>
 	)
 };
-export {Homepage, Aboutpage } ;
+export {Homepage} ;
