@@ -5,6 +5,11 @@ li{
     text-decoration: none;
     color: black;
 }
-h2 {
-    color:orange;
+.topNavtop {
+    background-color: black;
+}
+.topNavbottom{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
 }
