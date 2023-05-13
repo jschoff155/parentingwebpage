@@ -13,3 +13,12 @@ li{
     justify-content: center;
     justify-content: space-between;
 }
+.ageBracketCard {
+    border-style:solid;
+    height:500px;
+    display:flex;
+    justify-content: center;
+}
+.ageBracketCard h1{
+    text-align: center;
+}
