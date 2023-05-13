@@ -1,0 +1,10 @@
+ul {
+    list-style: none;
+}
+li{
+    text-decoration: none;
+    color: black;
+}
+h2 {
+    color:orange;
+}
